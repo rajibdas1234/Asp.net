@@ -1,0 +1,78 @@
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.deps.json
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.json
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.dev.json
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.dll
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.pdb
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.dll
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.pdb
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.TagHelpers.input.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.TagHelpers.output.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorCoreGenerate.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorTargetAssemblyInfo.cache
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorTargetAssemblyInfo.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.Views.pdb
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.dll
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.pdb
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CopyComplete
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Create.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Delete.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Details.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Edit.g.cshtml.cs
+C:\Users\Rajib\Source\Repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Index.g.cshtml.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.deps.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.dev.json
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.dll
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.pdb
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.dll
+D:\asp code\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.pdb
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.AssemblyInfo.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.TagHelpers.input.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.TagHelpers.output.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorCoreGenerate.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Create.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Details.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Index.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorTargetAssemblyInfo.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorTargetAssemblyInfo.cs
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.Views.pdb
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.dll
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.pdb
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.genruntimeconfig.cache
+D:\asp code\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CopyComplete
